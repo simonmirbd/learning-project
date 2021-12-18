@@ -16,3 +16,5 @@ http://51.15.0.141:88/redlightHD/index.m3u8
 http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Red Light HD
 http://51.15.0.141:88/redlightHD/mpegts
+#EXTINF:-1 ,EXTASY HD
+http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
